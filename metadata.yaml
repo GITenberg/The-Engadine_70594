@@ -8,6 +8,9 @@ contributor:
     deathdate: 1927
     gutenberg_agent_id: '46882'
     url: http://www.gutenberg.org/2009/agents/46882
+covers:
+- cover_type: archival
+  image_path: 70594-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Musson, Spencer C.
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55811
 description: '"This little book is mainly an abridgment of The Upper Engadine (A.
   and C. Black, 1906)"--p. 10.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70594#The-Engadine
 gutenberg_issued: '2023-04-19'
 identifiers:
   gutenberg: '70594'
